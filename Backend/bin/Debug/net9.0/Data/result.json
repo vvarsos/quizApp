@@ -1,0 +1,29 @@
+{
+	"quiz_id": 12,
+	"results": [
+		{
+			"r_id": 1,
+			"minpoints": 0,
+			"maxpoints": 33,
+			"title": "Not good.",
+			"message": "We can tell you are not a fan of Board games. Or at least Trivia games.",
+			"img": "/Backend/wwwroot/images/sad.jpg"
+		},
+		{
+			"r_id": 2,
+			"minpoints": 34,
+			"maxpoints": 66,
+			"title": "An average attempt",
+			"message": "Your Board games skills need some polishing up. We suggest you get to practicing!",
+			"img": "/Backend/wwwroot/images/meh.jpg"
+		},
+		{
+			"r_id": 3,
+			"minpoints": 67,
+			"maxpoints": 100,
+			"title": "Impressive results!",
+			"message": "You are probably first on your friends' Game Nights guest list, and rightly so!",
+			"img": "/Backend/wwwroot/images/fire.jpg"
+		}
+	]
+}

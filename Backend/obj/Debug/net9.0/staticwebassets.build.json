@@ -1,0 +1,4081 @@
+{
+  "Version": 1,
+  "Hash": "pGSUb+YcMGYn/fAa6ExNxfq3IiGZ18dMR3ITlfoIF0w=",
+  "Source": "QuizApp",
+  "BasePath": "_content/QuizApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QuizApp\\wwwroot",
+      "Source": "QuizApp",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\c4k499qlbi-djby1xd12u.gz",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "css/quiz#[.{fingerprint=djby1xd12u}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\quiz.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "v8035jhhak",
+      "Integrity": "/8ToobOXGPldjnj+tH4WOhooEBBeLTZQXcxR7eLFpDY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\quiz.css"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\d8ef7grfhj-ec9prun05y.gz",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "css/styles#[.{fingerprint=ec9prun05y}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1thcqizif3",
+      "Integrity": "JXdtwgRykc1wrHfVxOgUFftQaIYEj77GXf/9KFfrN+k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\gy6qqibuii-7wt0kzinls.gz",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "quiz#[.{fingerprint=7wt0kzinls}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\quiz.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "v56540hop1",
+      "Integrity": "c0LN5FBG+HdM9yDa279xWY4wNm6/4BAefdinK+8Ll2s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\quiz.html"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\kly367ogrk-whpx13jpog.gz",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "favicon#[.{fingerprint=whpx13jpog}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "a9dg4a683a",
+      "Integrity": "4gzcUQkff3b0x2JB+7w3/dPnprNrrHyIjGWOZEUnw4g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\tyioix3rht-ybiuwa8sli.gz",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "js/login#[.{fingerprint=ybiuwa8sli}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\js\\login.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "tiw4vbv44g",
+      "Integrity": "pfgymKTCCbNuzglBycmtpcsFmoOAcYImxpUFBfDxzxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\js\\login.js"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\vpnaau103r-t8aaq7f98a.gz",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "css/login#[.{fingerprint=t8aaq7f98a}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\login.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wxi4pstf3s",
+      "Integrity": "5HEbW8QY3FB5jK4pCQbD9XUtWOlqAhaJ/IozkG4Zspk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\whb86pupqn-l3ilxure12.gz",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "index#[.{fingerprint=l3ilxure12}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wfuljtbt6h",
+      "Integrity": "pPun4wdupIqXuak+P09RuEnEF6VRFC4HG1lEb/UJq3E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\wv2eofgovp-vv3idtn1y6.gz",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "js/quiz#[.{fingerprint=vv3idtn1y6}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\js\\quiz.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7d2pgezemy",
+      "Integrity": "xW+KheSCisC58tS1jjSUwXnZgEuwWmqKtJsgWaCa4Jc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\js\\quiz.js"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\login.css",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "css/login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t8aaq7f98a",
+      "Integrity": "XVg+8xEEsZARtsgz+xS64M2C2iiQL7zJUmz5K+tFu2Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\quiz.css",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "css/quiz#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "djby1xd12u",
+      "Integrity": "6UNtYATBGiUEnQahji1IIVV2JhJ0n/Rm++vnQZDC8eQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\quiz.css"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\styles.css",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ec9prun05y",
+      "Integrity": "cmFDd85B7JvpYI6ftmqsVWNktyeAa7MM+YPBuy7jINI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\favicon.ico",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "whpx13jpog",
+      "Integrity": "VPx7p9/hN8kZ+wd1O2eA0szVqJeeYz3JYrh7f88Waxk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\backgammon-bg.jpg",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "images/backgammon-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4d3ier4lkw",
+      "Integrity": "eIShW/tEAH6MI5oD6gDvk251gFYd8I0FoGlo7IIq7Yg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\backgammon-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\chess-bg.jpg",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "images/chess-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t9qzkaaan6",
+      "Integrity": "wYvIOYRPglUuftzqBqSydK6yLQyJ/ugnx9XhQLFgpzE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\chess-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\dnd-bg.jpg",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "images/dnd-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "00n4gmalfd",
+      "Integrity": "kKpzceWlVIODFVUgIMC3KOv9lXe3eZhmp0FGC5ajkGQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dnd-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\fire.jpg",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "images/fire#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ds5el2i561",
+      "Integrity": "Mw7mVdQxg6elqFwG+m/hOtpwHC5CatIz3lUBFb7wUdM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fire.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\jenga-bg.jpg",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "images/jenga-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ub9zfxlqa4",
+      "Integrity": "BoPOTuvpn1OjAnWzDkNacFxTaux+PcyMUn8VetUF5XI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\jenga-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\login.png",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "images/login#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6v6ton8n0h",
+      "Integrity": "AtzUG7e7RAhW7Xz/HbgITHt2Mw5s8fe9DX14Kk2BKkI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\login.png"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\meh.jpg",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "images/meh#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3bwojt6273",
+      "Integrity": "jyD3WIaBoJwnqoDH6Ef74HJMCurdt30pthTS4tMPOdo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\meh.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\monopoly-bg.jpg",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "images/monopoly-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "truzy8qmsu",
+      "Integrity": "iSjrl2gSuNJFlRHXpIn56DURH3QefSh+x6/HAw7ux6Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\monopoly-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\Q.png",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "images/Q#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yp8cq2itrx",
+      "Integrity": "Jrmz5e1SWq5rZar7NzsMw52V4QAjVTwllDgYA5vAlDs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Q.png"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\risk-bg.jpg",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "images/risk-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e1q2uj5z9b",
+      "Integrity": "UgoA3Rz9LdVcNZZB+VirdJ6FjJGmwTPkBhrL/u28+0c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\risk-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\sad.jpg",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "images/sad#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "41sw2zssjh",
+      "Integrity": "GDx18WhHlVS86PG27w2/KdWr9SdZ1BV+vtrk+uh+Cuk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sad.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\scrabble-bg.jpg",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "images/scrabble-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "semrmsno3d",
+      "Integrity": "zB9Hc0hz31XsfNRJLyHOx+CYHHOsScx1uj1bQisyVbI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\scrabble-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\trivialpursuit-bg.jpg",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "images/trivialpursuit-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1wiaeu75fe",
+      "Integrity": "38vamDeLMPWs7XrACtERNcoCdv3RHxlPxPUH9Y5af0I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trivialpursuit-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\index.html",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l3ilxure12",
+      "Integrity": "H4hc6pEuppv0PNDg240zryZDgu358VUioFzoWf2dt8s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\js\\login.js",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "js/login#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ybiuwa8sli",
+      "Integrity": "TsCYHSntlxNlqjOncc9pbFHbucYVa/jb6mFZs+7ITNY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\login.js"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\js\\quiz.js",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "js/quiz#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vv3idtn1y6",
+      "Integrity": "1areWZBdpouBSqHAsWUz475LPOG5doZqPUjiOki5ToY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\quiz.js"
+    },
+    {
+      "Identity": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\quiz.html",
+      "SourceId": "QuizApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\",
+      "BasePath": "_content/QuizApp",
+      "RelativePath": "quiz#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7wt0kzinls",
+      "Integrity": "qYjuXUCLhAWGJ+7WHqM86Eh8AJSxcy+Qg0h4hggfSWQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\quiz.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/login.css",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\vpnaau103r-t8aaq7f98a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001158748552"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "862"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5HEbW8QY3FB5jK4pCQbD9XUtWOlqAhaJ/IozkG4Zspk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:00:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XVg+8xEEsZARtsgz+xS64M2C2iiQL7zJUmz5K+tFu2Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XVg+8xEEsZARtsgz+xS64M2C2iiQL7zJUmz5K+tFu2Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XVg+8xEEsZARtsgz+xS64M2C2iiQL7zJUmz5K+tFu2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:00:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XVg+8xEEsZARtsgz+xS64M2C2iiQL7zJUmz5K+tFu2Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css.gz",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\vpnaau103r-t8aaq7f98a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5HEbW8QY3FB5jK4pCQbD9XUtWOlqAhaJ/IozkG4Zspk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:00:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5HEbW8QY3FB5jK4pCQbD9XUtWOlqAhaJ/IozkG4Zspk="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.t8aaq7f98a.css",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\vpnaau103r-t8aaq7f98a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001158748552"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "862"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5HEbW8QY3FB5jK4pCQbD9XUtWOlqAhaJ/IozkG4Zspk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:00:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XVg+8xEEsZARtsgz+xS64M2C2iiQL7zJUmz5K+tFu2Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t8aaq7f98a"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XVg+8xEEsZARtsgz+xS64M2C2iiQL7zJUmz5K+tFu2Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.t8aaq7f98a.css",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XVg+8xEEsZARtsgz+xS64M2C2iiQL7zJUmz5K+tFu2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:00:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t8aaq7f98a"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XVg+8xEEsZARtsgz+xS64M2C2iiQL7zJUmz5K+tFu2Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.t8aaq7f98a.css.gz",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\vpnaau103r-t8aaq7f98a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5HEbW8QY3FB5jK4pCQbD9XUtWOlqAhaJ/IozkG4Zspk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:00:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t8aaq7f98a"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5HEbW8QY3FB5jK4pCQbD9XUtWOlqAhaJ/IozkG4Zspk="
+        }
+      ]
+    },
+    {
+      "Route": "css/quiz.css",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\c4k499qlbi-djby1xd12u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001560062402"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "640"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/8ToobOXGPldjnj+tH4WOhooEBBeLTZQXcxR7eLFpDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:23:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6UNtYATBGiUEnQahji1IIVV2JhJ0n/Rm++vnQZDC8eQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6UNtYATBGiUEnQahji1IIVV2JhJ0n/Rm++vnQZDC8eQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/quiz.css",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\quiz.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6UNtYATBGiUEnQahji1IIVV2JhJ0n/Rm++vnQZDC8eQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:23:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6UNtYATBGiUEnQahji1IIVV2JhJ0n/Rm++vnQZDC8eQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/quiz.css.gz",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\c4k499qlbi-djby1xd12u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/8ToobOXGPldjnj+tH4WOhooEBBeLTZQXcxR7eLFpDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:23:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/8ToobOXGPldjnj+tH4WOhooEBBeLTZQXcxR7eLFpDY="
+        }
+      ]
+    },
+    {
+      "Route": "css/quiz.djby1xd12u.css",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\c4k499qlbi-djby1xd12u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001560062402"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "640"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/8ToobOXGPldjnj+tH4WOhooEBBeLTZQXcxR7eLFpDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:23:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6UNtYATBGiUEnQahji1IIVV2JhJ0n/Rm++vnQZDC8eQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "djby1xd12u"
+        },
+        {
+          "Name": "label",
+          "Value": "css/quiz.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6UNtYATBGiUEnQahji1IIVV2JhJ0n/Rm++vnQZDC8eQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/quiz.djby1xd12u.css",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\quiz.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6UNtYATBGiUEnQahji1IIVV2JhJ0n/Rm++vnQZDC8eQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:23:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "djby1xd12u"
+        },
+        {
+          "Name": "label",
+          "Value": "css/quiz.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6UNtYATBGiUEnQahji1IIVV2JhJ0n/Rm++vnQZDC8eQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/quiz.djby1xd12u.css.gz",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\c4k499qlbi-djby1xd12u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/8ToobOXGPldjnj+tH4WOhooEBBeLTZQXcxR7eLFpDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:23:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "djby1xd12u"
+        },
+        {
+          "Name": "label",
+          "Value": "css/quiz.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/8ToobOXGPldjnj+tH4WOhooEBBeLTZQXcxR7eLFpDY="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\d8ef7grfhj-ec9prun05y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002976190476"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "335"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JXdtwgRykc1wrHfVxOgUFftQaIYEj77GXf/9KFfrN+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 23:15:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cmFDd85B7JvpYI6ftmqsVWNktyeAa7MM+YPBuy7jINI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cmFDd85B7JvpYI6ftmqsVWNktyeAa7MM+YPBuy7jINI="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cmFDd85B7JvpYI6ftmqsVWNktyeAa7MM+YPBuy7jINI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 23:15:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cmFDd85B7JvpYI6ftmqsVWNktyeAa7MM+YPBuy7jINI="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\d8ef7grfhj-ec9prun05y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "335"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JXdtwgRykc1wrHfVxOgUFftQaIYEj77GXf/9KFfrN+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 23:15:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JXdtwgRykc1wrHfVxOgUFftQaIYEj77GXf/9KFfrN+k="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.ec9prun05y.css",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\d8ef7grfhj-ec9prun05y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002976190476"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "335"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JXdtwgRykc1wrHfVxOgUFftQaIYEj77GXf/9KFfrN+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 23:15:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cmFDd85B7JvpYI6ftmqsVWNktyeAa7MM+YPBuy7jINI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ec9prun05y"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cmFDd85B7JvpYI6ftmqsVWNktyeAa7MM+YPBuy7jINI="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.ec9prun05y.css",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cmFDd85B7JvpYI6ftmqsVWNktyeAa7MM+YPBuy7jINI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 23:15:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ec9prun05y"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cmFDd85B7JvpYI6ftmqsVWNktyeAa7MM+YPBuy7jINI="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.ec9prun05y.css.gz",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\d8ef7grfhj-ec9prun05y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "335"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JXdtwgRykc1wrHfVxOgUFftQaIYEj77GXf/9KFfrN+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 23:15:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ec9prun05y"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JXdtwgRykc1wrHfVxOgUFftQaIYEj77GXf/9KFfrN+k="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\kly367ogrk-whpx13jpog.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000263852243"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3789"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4gzcUQkff3b0x2JB+7w3/dPnprNrrHyIjGWOZEUnw4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 01:31:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VPx7p9/hN8kZ+wd1O2eA0szVqJeeYz3JYrh7f88Waxk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VPx7p9/hN8kZ+wd1O2eA0szVqJeeYz3JYrh7f88Waxk="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VPx7p9/hN8kZ+wd1O2eA0szVqJeeYz3JYrh7f88Waxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 01:31:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VPx7p9/hN8kZ+wd1O2eA0szVqJeeYz3JYrh7f88Waxk="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\kly367ogrk-whpx13jpog.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4gzcUQkff3b0x2JB+7w3/dPnprNrrHyIjGWOZEUnw4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 01:31:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4gzcUQkff3b0x2JB+7w3/dPnprNrrHyIjGWOZEUnw4g="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.whpx13jpog.ico",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\kly367ogrk-whpx13jpog.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000263852243"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3789"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4gzcUQkff3b0x2JB+7w3/dPnprNrrHyIjGWOZEUnw4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 01:31:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VPx7p9/hN8kZ+wd1O2eA0szVqJeeYz3JYrh7f88Waxk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "whpx13jpog"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VPx7p9/hN8kZ+wd1O2eA0szVqJeeYz3JYrh7f88Waxk="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.whpx13jpog.ico",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VPx7p9/hN8kZ+wd1O2eA0szVqJeeYz3JYrh7f88Waxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 01:31:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "whpx13jpog"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VPx7p9/hN8kZ+wd1O2eA0szVqJeeYz3JYrh7f88Waxk="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.whpx13jpog.ico.gz",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\kly367ogrk-whpx13jpog.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4gzcUQkff3b0x2JB+7w3/dPnprNrrHyIjGWOZEUnw4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 01:31:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "whpx13jpog"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4gzcUQkff3b0x2JB+7w3/dPnprNrrHyIjGWOZEUnw4g="
+        }
+      ]
+    },
+    {
+      "Route": "images/backgammon-bg.4d3ier4lkw.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\backgammon-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2063591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eIShW/tEAH6MI5oD6gDvk251gFYd8I0FoGlo7IIq7Yg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:22:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4d3ier4lkw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/backgammon-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eIShW/tEAH6MI5oD6gDvk251gFYd8I0FoGlo7IIq7Yg="
+        }
+      ]
+    },
+    {
+      "Route": "images/backgammon-bg.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\backgammon-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2063591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eIShW/tEAH6MI5oD6gDvk251gFYd8I0FoGlo7IIq7Yg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:22:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eIShW/tEAH6MI5oD6gDvk251gFYd8I0FoGlo7IIq7Yg="
+        }
+      ]
+    },
+    {
+      "Route": "images/chess-bg.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\chess-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wYvIOYRPglUuftzqBqSydK6yLQyJ/ugnx9XhQLFgpzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:18:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wYvIOYRPglUuftzqBqSydK6yLQyJ/ugnx9XhQLFgpzE="
+        }
+      ]
+    },
+    {
+      "Route": "images/chess-bg.t9qzkaaan6.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\chess-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wYvIOYRPglUuftzqBqSydK6yLQyJ/ugnx9XhQLFgpzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:18:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t9qzkaaan6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/chess-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wYvIOYRPglUuftzqBqSydK6yLQyJ/ugnx9XhQLFgpzE="
+        }
+      ]
+    },
+    {
+      "Route": "images/dnd-bg.00n4gmalfd.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\dnd-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kKpzceWlVIODFVUgIMC3KOv9lXe3eZhmp0FGC5ajkGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:21:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "00n4gmalfd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/dnd-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kKpzceWlVIODFVUgIMC3KOv9lXe3eZhmp0FGC5ajkGQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/dnd-bg.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\dnd-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kKpzceWlVIODFVUgIMC3KOv9lXe3eZhmp0FGC5ajkGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:21:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kKpzceWlVIODFVUgIMC3KOv9lXe3eZhmp0FGC5ajkGQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/fire.ds5el2i561.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\fire.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mw7mVdQxg6elqFwG+m/hOtpwHC5CatIz3lUBFb7wUdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 21:12:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ds5el2i561"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fire.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mw7mVdQxg6elqFwG+m/hOtpwHC5CatIz3lUBFb7wUdM="
+        }
+      ]
+    },
+    {
+      "Route": "images/fire.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\fire.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mw7mVdQxg6elqFwG+m/hOtpwHC5CatIz3lUBFb7wUdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 21:12:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mw7mVdQxg6elqFwG+m/hOtpwHC5CatIz3lUBFb7wUdM="
+        }
+      ]
+    },
+    {
+      "Route": "images/jenga-bg.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\jenga-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BoPOTuvpn1OjAnWzDkNacFxTaux+PcyMUn8VetUF5XI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BoPOTuvpn1OjAnWzDkNacFxTaux+PcyMUn8VetUF5XI="
+        }
+      ]
+    },
+    {
+      "Route": "images/jenga-bg.ub9zfxlqa4.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\jenga-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BoPOTuvpn1OjAnWzDkNacFxTaux+PcyMUn8VetUF5XI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ub9zfxlqa4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/jenga-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BoPOTuvpn1OjAnWzDkNacFxTaux+PcyMUn8VetUF5XI="
+        }
+      ]
+    },
+    {
+      "Route": "images/login.6v6ton8n0h.png",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\login.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1507482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AtzUG7e7RAhW7Xz/HbgITHt2Mw5s8fe9DX14Kk2BKkI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 01:59:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6v6ton8n0h"
+        },
+        {
+          "Name": "label",
+          "Value": "images/login.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AtzUG7e7RAhW7Xz/HbgITHt2Mw5s8fe9DX14Kk2BKkI="
+        }
+      ]
+    },
+    {
+      "Route": "images/login.png",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\login.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1507482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AtzUG7e7RAhW7Xz/HbgITHt2Mw5s8fe9DX14Kk2BKkI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 01:59:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AtzUG7e7RAhW7Xz/HbgITHt2Mw5s8fe9DX14Kk2BKkI="
+        }
+      ]
+    },
+    {
+      "Route": "images/meh.3bwojt6273.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\meh.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jyD3WIaBoJwnqoDH6Ef74HJMCurdt30pthTS4tMPOdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 21:13:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3bwojt6273"
+        },
+        {
+          "Name": "label",
+          "Value": "images/meh.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jyD3WIaBoJwnqoDH6Ef74HJMCurdt30pthTS4tMPOdo="
+        }
+      ]
+    },
+    {
+      "Route": "images/meh.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\meh.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jyD3WIaBoJwnqoDH6Ef74HJMCurdt30pthTS4tMPOdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 21:13:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jyD3WIaBoJwnqoDH6Ef74HJMCurdt30pthTS4tMPOdo="
+        }
+      ]
+    },
+    {
+      "Route": "images/monopoly-bg.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\monopoly-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2403366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iSjrl2gSuNJFlRHXpIn56DURH3QefSh+x6/HAw7ux6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:20:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iSjrl2gSuNJFlRHXpIn56DURH3QefSh+x6/HAw7ux6Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/monopoly-bg.truzy8qmsu.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\monopoly-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2403366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iSjrl2gSuNJFlRHXpIn56DURH3QefSh+x6/HAw7ux6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:20:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "truzy8qmsu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/monopoly-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iSjrl2gSuNJFlRHXpIn56DURH3QefSh+x6/HAw7ux6Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/Q.png",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\Q.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1341"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jrmz5e1SWq5rZar7NzsMw52V4QAjVTwllDgYA5vAlDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:40:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jrmz5e1SWq5rZar7NzsMw52V4QAjVTwllDgYA5vAlDs="
+        }
+      ]
+    },
+    {
+      "Route": "images/Q.yp8cq2itrx.png",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\Q.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1341"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jrmz5e1SWq5rZar7NzsMw52V4QAjVTwllDgYA5vAlDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:40:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yp8cq2itrx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Q.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jrmz5e1SWq5rZar7NzsMw52V4QAjVTwllDgYA5vAlDs="
+        }
+      ]
+    },
+    {
+      "Route": "images/risk-bg.e1q2uj5z9b.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\risk-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "646685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UgoA3Rz9LdVcNZZB+VirdJ6FjJGmwTPkBhrL/u28+0c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:24:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e1q2uj5z9b"
+        },
+        {
+          "Name": "label",
+          "Value": "images/risk-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgoA3Rz9LdVcNZZB+VirdJ6FjJGmwTPkBhrL/u28+0c="
+        }
+      ]
+    },
+    {
+      "Route": "images/risk-bg.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\risk-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "646685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UgoA3Rz9LdVcNZZB+VirdJ6FjJGmwTPkBhrL/u28+0c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:24:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgoA3Rz9LdVcNZZB+VirdJ6FjJGmwTPkBhrL/u28+0c="
+        }
+      ]
+    },
+    {
+      "Route": "images/sad.41sw2zssjh.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\sad.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2410"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GDx18WhHlVS86PG27w2/KdWr9SdZ1BV+vtrk+uh+Cuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 21:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "41sw2zssjh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sad.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GDx18WhHlVS86PG27w2/KdWr9SdZ1BV+vtrk+uh+Cuk="
+        }
+      ]
+    },
+    {
+      "Route": "images/sad.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\sad.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2410"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GDx18WhHlVS86PG27w2/KdWr9SdZ1BV+vtrk+uh+Cuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 21:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GDx18WhHlVS86PG27w2/KdWr9SdZ1BV+vtrk+uh+Cuk="
+        }
+      ]
+    },
+    {
+      "Route": "images/scrabble-bg.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\scrabble-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zB9Hc0hz31XsfNRJLyHOx+CYHHOsScx1uj1bQisyVbI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:24:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zB9Hc0hz31XsfNRJLyHOx+CYHHOsScx1uj1bQisyVbI="
+        }
+      ]
+    },
+    {
+      "Route": "images/scrabble-bg.semrmsno3d.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\scrabble-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zB9Hc0hz31XsfNRJLyHOx+CYHHOsScx1uj1bQisyVbI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 03:24:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "semrmsno3d"
+        },
+        {
+          "Name": "label",
+          "Value": "images/scrabble-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zB9Hc0hz31XsfNRJLyHOx+CYHHOsScx1uj1bQisyVbI="
+        }
+      ]
+    },
+    {
+      "Route": "images/trivialpursuit-bg.1wiaeu75fe.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\trivialpursuit-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"38vamDeLMPWs7XrACtERNcoCdv3RHxlPxPUH9Y5af0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:19:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1wiaeu75fe"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trivialpursuit-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-38vamDeLMPWs7XrACtERNcoCdv3RHxlPxPUH9Y5af0I="
+        }
+      ]
+    },
+    {
+      "Route": "images/trivialpursuit-bg.jpg",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\trivialpursuit-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"38vamDeLMPWs7XrACtERNcoCdv3RHxlPxPUH9Y5af0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:19:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-38vamDeLMPWs7XrACtERNcoCdv3RHxlPxPUH9Y5af0I="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\whb86pupqn-l3ilxure12.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002277904328"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "438"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pPun4wdupIqXuak+P09RuEnEF6VRFC4HG1lEb/UJq3E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:02:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"H4hc6pEuppv0PNDg240zryZDgu358VUioFzoWf2dt8s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H4hc6pEuppv0PNDg240zryZDgu358VUioFzoWf2dt8s="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H4hc6pEuppv0PNDg240zryZDgu358VUioFzoWf2dt8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:02:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H4hc6pEuppv0PNDg240zryZDgu358VUioFzoWf2dt8s="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\whb86pupqn-l3ilxure12.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pPun4wdupIqXuak+P09RuEnEF6VRFC4HG1lEb/UJq3E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:02:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pPun4wdupIqXuak+P09RuEnEF6VRFC4HG1lEb/UJq3E="
+        }
+      ]
+    },
+    {
+      "Route": "index.l3ilxure12.html",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\whb86pupqn-l3ilxure12.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002277904328"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "438"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pPun4wdupIqXuak+P09RuEnEF6VRFC4HG1lEb/UJq3E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:02:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"H4hc6pEuppv0PNDg240zryZDgu358VUioFzoWf2dt8s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l3ilxure12"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H4hc6pEuppv0PNDg240zryZDgu358VUioFzoWf2dt8s="
+        }
+      ]
+    },
+    {
+      "Route": "index.l3ilxure12.html",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H4hc6pEuppv0PNDg240zryZDgu358VUioFzoWf2dt8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:02:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l3ilxure12"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H4hc6pEuppv0PNDg240zryZDgu358VUioFzoWf2dt8s="
+        }
+      ]
+    },
+    {
+      "Route": "index.l3ilxure12.html.gz",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\whb86pupqn-l3ilxure12.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pPun4wdupIqXuak+P09RuEnEF6VRFC4HG1lEb/UJq3E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 02:02:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l3ilxure12"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pPun4wdupIqXuak+P09RuEnEF6VRFC4HG1lEb/UJq3E="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.js",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\tyioix3rht-ybiuwa8sli.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001652892562"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "604"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pfgymKTCCbNuzglBycmtpcsFmoOAcYImxpUFBfDxzxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:58:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TsCYHSntlxNlqjOncc9pbFHbucYVa/jb6mFZs+7ITNY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TsCYHSntlxNlqjOncc9pbFHbucYVa/jb6mFZs+7ITNY="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.js",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TsCYHSntlxNlqjOncc9pbFHbucYVa/jb6mFZs+7ITNY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:58:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TsCYHSntlxNlqjOncc9pbFHbucYVa/jb6mFZs+7ITNY="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.js.gz",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\tyioix3rht-ybiuwa8sli.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pfgymKTCCbNuzglBycmtpcsFmoOAcYImxpUFBfDxzxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:58:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pfgymKTCCbNuzglBycmtpcsFmoOAcYImxpUFBfDxzxo="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.ybiuwa8sli.js",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\tyioix3rht-ybiuwa8sli.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001652892562"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "604"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pfgymKTCCbNuzglBycmtpcsFmoOAcYImxpUFBfDxzxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:58:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TsCYHSntlxNlqjOncc9pbFHbucYVa/jb6mFZs+7ITNY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ybiuwa8sli"
+        },
+        {
+          "Name": "label",
+          "Value": "js/login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TsCYHSntlxNlqjOncc9pbFHbucYVa/jb6mFZs+7ITNY="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.ybiuwa8sli.js",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TsCYHSntlxNlqjOncc9pbFHbucYVa/jb6mFZs+7ITNY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:58:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ybiuwa8sli"
+        },
+        {
+          "Name": "label",
+          "Value": "js/login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TsCYHSntlxNlqjOncc9pbFHbucYVa/jb6mFZs+7ITNY="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.ybiuwa8sli.js.gz",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\tyioix3rht-ybiuwa8sli.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pfgymKTCCbNuzglBycmtpcsFmoOAcYImxpUFBfDxzxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 19:58:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ybiuwa8sli"
+        },
+        {
+          "Name": "label",
+          "Value": "js/login.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pfgymKTCCbNuzglBycmtpcsFmoOAcYImxpUFBfDxzxo="
+        }
+      ]
+    },
+    {
+      "Route": "js/quiz.js",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\wv2eofgovp-vv3idtn1y6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000317258883"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3151"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xW+KheSCisC58tS1jjSUwXnZgEuwWmqKtJsgWaCa4Jc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 22:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1areWZBdpouBSqHAsWUz475LPOG5doZqPUjiOki5ToY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1areWZBdpouBSqHAsWUz475LPOG5doZqPUjiOki5ToY="
+        }
+      ]
+    },
+    {
+      "Route": "js/quiz.js",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\js\\quiz.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1areWZBdpouBSqHAsWUz475LPOG5doZqPUjiOki5ToY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 22:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1areWZBdpouBSqHAsWUz475LPOG5doZqPUjiOki5ToY="
+        }
+      ]
+    },
+    {
+      "Route": "js/quiz.js.gz",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\wv2eofgovp-vv3idtn1y6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xW+KheSCisC58tS1jjSUwXnZgEuwWmqKtJsgWaCa4Jc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 22:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xW+KheSCisC58tS1jjSUwXnZgEuwWmqKtJsgWaCa4Jc="
+        }
+      ]
+    },
+    {
+      "Route": "js/quiz.vv3idtn1y6.js",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\wv2eofgovp-vv3idtn1y6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000317258883"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3151"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xW+KheSCisC58tS1jjSUwXnZgEuwWmqKtJsgWaCa4Jc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 22:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1areWZBdpouBSqHAsWUz475LPOG5doZqPUjiOki5ToY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vv3idtn1y6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/quiz.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1areWZBdpouBSqHAsWUz475LPOG5doZqPUjiOki5ToY="
+        }
+      ]
+    },
+    {
+      "Route": "js/quiz.vv3idtn1y6.js",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\js\\quiz.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1areWZBdpouBSqHAsWUz475LPOG5doZqPUjiOki5ToY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 22:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vv3idtn1y6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/quiz.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1areWZBdpouBSqHAsWUz475LPOG5doZqPUjiOki5ToY="
+        }
+      ]
+    },
+    {
+      "Route": "js/quiz.vv3idtn1y6.js.gz",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\wv2eofgovp-vv3idtn1y6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xW+KheSCisC58tS1jjSUwXnZgEuwWmqKtJsgWaCa4Jc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 22:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vv3idtn1y6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/quiz.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xW+KheSCisC58tS1jjSUwXnZgEuwWmqKtJsgWaCa4Jc="
+        }
+      ]
+    },
+    {
+      "Route": "quiz.7wt0kzinls.html",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\gy6qqibuii-7wt0kzinls.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002020202020"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "494"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c0LN5FBG+HdM9yDa279xWY4wNm6/4BAefdinK+8Ll2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 21:59:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qYjuXUCLhAWGJ+7WHqM86Eh8AJSxcy+Qg0h4hggfSWQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7wt0kzinls"
+        },
+        {
+          "Name": "label",
+          "Value": "quiz.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qYjuXUCLhAWGJ+7WHqM86Eh8AJSxcy+Qg0h4hggfSWQ="
+        }
+      ]
+    },
+    {
+      "Route": "quiz.7wt0kzinls.html",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\quiz.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1013"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qYjuXUCLhAWGJ+7WHqM86Eh8AJSxcy+Qg0h4hggfSWQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 21:59:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7wt0kzinls"
+        },
+        {
+          "Name": "label",
+          "Value": "quiz.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qYjuXUCLhAWGJ+7WHqM86Eh8AJSxcy+Qg0h4hggfSWQ="
+        }
+      ]
+    },
+    {
+      "Route": "quiz.7wt0kzinls.html.gz",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\gy6qqibuii-7wt0kzinls.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c0LN5FBG+HdM9yDa279xWY4wNm6/4BAefdinK+8Ll2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 21:59:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7wt0kzinls"
+        },
+        {
+          "Name": "label",
+          "Value": "quiz.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c0LN5FBG+HdM9yDa279xWY4wNm6/4BAefdinK+8Ll2s="
+        }
+      ]
+    },
+    {
+      "Route": "quiz.html",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\gy6qqibuii-7wt0kzinls.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002020202020"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "494"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c0LN5FBG+HdM9yDa279xWY4wNm6/4BAefdinK+8Ll2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 21:59:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qYjuXUCLhAWGJ+7WHqM86Eh8AJSxcy+Qg0h4hggfSWQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qYjuXUCLhAWGJ+7WHqM86Eh8AJSxcy+Qg0h4hggfSWQ="
+        }
+      ]
+    },
+    {
+      "Route": "quiz.html",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\quiz.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1013"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qYjuXUCLhAWGJ+7WHqM86Eh8AJSxcy+Qg0h4hggfSWQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 21:59:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qYjuXUCLhAWGJ+7WHqM86Eh8AJSxcy+Qg0h4hggfSWQ="
+        }
+      ]
+    },
+    {
+      "Route": "quiz.html.gz",
+      "AssetFile": "C:\\Users\\varso\\quizApp\\Backend\\obj\\Debug\\net9.0\\compressed\\gy6qqibuii-7wt0kzinls.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c0LN5FBG+HdM9yDa279xWY4wNm6/4BAefdinK+8Ll2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 21:59:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c0LN5FBG+HdM9yDa279xWY4wNm6/4BAefdinK+8Ll2s="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+	"quiz_id": 12,
+	"title": "Classic Board Games Quiz",
+	"description": "Are you a board game boss? Get ready to roll the dice and prove your prowess with this fun quiz on classic board games!",
+	"questions": [
+		{
+			"q_id": 1,
+			"title": "The original version of Monopoly was based on the streets of which American city?",
+			"img": "#####",
+			"question_type": "multiplechoice-single",
+			"possible_answers": [
+				{
+					"a_id": 1,
+					"caption": "Seattle"
+				},
+				{
+					"a_id": 2,
+					"caption": "New York"
+				},
+				{
+					"a_id": 3,
+					"caption": "Atlantic City"
+				},
+				{
+					"a_id": 4,
+					"caption": "Washington, D.C."
+				}
+			],
+			"correct_answer": 3,
+			"points": 3
+		},
+		{
+			"q_id": 2,
+			"title": "In Backgammon, rolling double is generally considered a bad thing",
+			"img": "#####",
+			"question_type": "truefalse",
+			"correct_answer": false,
+			"points": 2
+		},
+		{
+			"q_id": 3,
+			"title": "In Dungeons and Dragons, which character races can see twice the distance as a human when in minimal light?",
+			"img": "#####",
+			"question_type": "multiplechoice-multiple",
+			"possible_answers": [
+				{
+					"a_id": 7,
+					"caption": "Elves"
+				},
+				{
+					"a_id": 8,
+					"caption": "Dwarfes"
+				},
+				{
+					"a_id": 9,
+					"caption": "Gnomes"
+				},
+				{
+					"a_id": 10,
+					"caption": "Half-Orcs"
+				}
+			],
+			"correct_answer": [7, 9],
+			"points": 3
+		},
+		{
+			"q_id": 4,
+			"title": "How many continents are there in Risk?",
+			"img": "#####",
+			"question_type": "multiplechoice-single",
+			"possible_answers": [
+				{
+					"a_id": 11,
+					"caption": "Six"
+				},
+				{
+					"a_id": 12,
+					"caption": "Five"
+				},
+				{
+					"a_id": 13,
+					"caption": "Three"
+				},
+				{
+					"a_id": 14,
+					"caption": "Four"
+				}
+			],
+			"correct_answer": 11,
+			"points": 2
+		},
+		{
+			"q_id": 5,
+			"title": "In Chess, what is the only piece that can jump over other pieces?",
+			"img": "#####",
+			"question_type": "multiplechoice-single",
+			"possible_answers": [
+				{
+					"a_id": 15,
+					"caption": "Queen"
+				},
+				{
+					"a_id": 16,
+					"caption": "Knight"
+				},
+				{
+					"a_id": 17,
+					"caption": "Pawn"
+				},
+				{
+					"a_id": 18,
+					"caption": "King"
+				}
+			],
+			"correct_answer": 16,
+			"points": 2
+		},
+		{
+			"q_id": 6,
+			"title": "Which of the following are NOT subject categories in the original edition of Trivial Pursuit?",
+			"img": "#####",
+			"question_type": "multiplechoice-multiple",
+			"possible_answers": [
+				{
+					"a_id": 19,
+					"caption": "Entertainment"
+				},
+				{
+					"a_id": 20,
+					"caption": "Government & Politics"
+				},
+				{
+					"a_id": 21,
+					"caption": "Geography"
+				},
+				{
+					"a_id": 22,
+					"caption": "Games & Hobbies"
+				}
+			],
+			"correct_answer": [20, 22],
+			"points": 3
+		},
+		{
+			"q_id": 7,
+			"title": "How many squares are there on a Scrabble board?",
+			"img": "#####",
+			"question_type": "multiplechoice-single",
+			"possible_answers": [
+				{
+					"a_id": 23,
+					"caption": "144 (12x12)"
+				},
+				{
+					"a_id": 24,
+					"caption": "196 (14x14)"
+				},
+				{
+					"a_id": 25,
+					"caption": "225 (15x15)"
+				},
+				{
+					"a_id": 26,
+					"caption": "256 (16x16)"
+				}
+			],
+			"correct_answer": 25,
+			"points": 2
+		},
+        {
+            "q_id": 8,
+            "title": "The name 'Jenga' is derived from a word meaning 'Build' in which language?",
+            "img": "#####",
+            "question_type": "multiplechoice-single",
+            "possible_answers": [
+                {
+                  "a_id": 27,
+                  "caption": "Swahili"
+                },
+                {
+                  "a_id": 28,
+                  "caption": "Dutch"
+                },
+                {
+                  "a_id": 29,
+                  "caption": "Indian"
+                },
+                {
+                  "a_id": 30,
+                  "caption": "Korean"
+                }
+            ],
+            "correct_answer": 27,
+            "points": 3
+          }
+    ]
+}

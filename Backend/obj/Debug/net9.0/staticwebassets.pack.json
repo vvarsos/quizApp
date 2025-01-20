@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\quiz.css",
+      "PackagePath": "staticwebassets\\css\\quiz.css"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\Q.png",
+      "PackagePath": "staticwebassets\\images\\Q.png"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\backgammon-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\backgammon-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\chess-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\chess-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\dnd-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\dnd-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\fire.jpg",
+      "PackagePath": "staticwebassets\\images\\fire.jpg"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\jenga-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\jenga-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\login.png",
+      "PackagePath": "staticwebassets\\images\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\meh.jpg",
+      "PackagePath": "staticwebassets\\images\\meh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\monopoly-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\monopoly-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\risk-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\risk-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\sad.jpg",
+      "PackagePath": "staticwebassets\\images\\sad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\scrabble-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\scrabble-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\images\\trivialpursuit-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\trivialpursuit-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\js\\quiz.js",
+      "PackagePath": "staticwebassets\\js\\quiz.js"
+    },
+    {
+      "Id": "C:\\Users\\varso\\quizApp\\Backend\\wwwroot\\quiz.html",
+      "PackagePath": "staticwebassets\\quiz.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.QuizApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.QuizApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.QuizApp.props",
+      "PackagePath": "build\\QuizApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.QuizApp.props",
+      "PackagePath": "buildMultiTargeting\\QuizApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.QuizApp.props",
+      "PackagePath": "buildTransitive\\QuizApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

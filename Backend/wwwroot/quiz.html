@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Board Games Quiz</title>
+  <link rel="stylesheet" href="css/quiz.css">
+</head>
+<body>
+  <div class="quiz-page-container">
+    <header class="quiz-header">
+      <h1 id="quizTitle">Loading Quiz...</h1>
+      <p id="quizDescription"></p>
+    </header>
+
+    <section id="questionSection" class="question-section">
+      <h2 id="questionText" class="question-text"></h2>
+      
+      <ul id="answersList" class="answers-list"></ul>
+      <button id="submitAnswerBtn" class="submit-answer-btn">Submit Answer</button>
+      <div id="feedback" class="feedback-message"></div>
+    </section>
+
+    <div id="finalResult" style="display:none;">
+      <h2 id="finalTitle"></h2>
+      <p>Your Score: <span id="finalScore"></span></p>
+      <p id="finalMessage"></p>
+      <img id="finalImage" src="" alt="Final Result" style="max-width:300px;" />
+    </div>
+    
+
+  <script src="js/quiz.js"></script>
+</body>
+</html>
