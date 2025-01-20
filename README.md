@@ -1,6 +1,3 @@
-# quizApp
-Software Developer Project Assignment - Building and Managing a Scalable Web Application using a C# Web API for the backend, and only vanilla JavaScript for the frontend
-
 # Board Games Quiz App
 
 A simple, secure quiz application built with **ASP.NET Core Web API** (C#) for the backend and **vanilla JavaScript** for the frontend. This project demonstrates:
