@@ -33,7 +33,13 @@ A simple, secure quiz application built with **ASP.NET Core Web API** (C#) for t
 4. **Security**:  
    - Enforces validation server-side.  
    - HTTPS-only for secure transmission.  
-   - Minimal data leakage in error messages.
+   - Minimal data leakage in error messages:
+        - The code returns generic 401 Unauthorized with the message “Invalid username or password.” for any password mismatch.
+        - For invalid fields or constraints, we return 400 with a specific reason (e.g., “Username must contain at least two vowels...”).
+   - Input Sanitization (SQL Injection, XSS):
+        - The username is checked with a strict ^[a-z]+$ regex. This essentially sanitizes away special characters.
+        - The password is numeric only (100..999), so no scripts or special input can pass.
+        - The application doesn’t perform database queries with user input, there’s minimal risk of SQL injection.
 
 ---
 
